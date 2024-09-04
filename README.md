@@ -1,7 +1,3 @@
-Aqui está o README atualizado com as instruções para configurar e rodar os testes usando .NET:
-
----
-
 # Descrição dos Testes
 
 Este repositório contém três testes diferentes que abordam a contagem de funcionários por departamento, a elegibilidade de bônus baseado em avaliações de desempenho, e o cálculo da folha de pagamento de uma empresa. Abaixo estão as descrições de cada um dos testes, juntamente com as instruções para rodá-los utilizando .NET.
